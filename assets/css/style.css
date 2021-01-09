@@ -1639,7 +1639,7 @@ section {
 #footer {
   background: #fff;
   padding: 0 0 30px 0;
-  color: #444444;
+  color: #fff;
   font-size: 14px;
   background: #f1f6fe;
 }
@@ -1697,7 +1697,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  background: #f50713;
 }
 
 #footer .footer-top .footer-contact {
@@ -1713,7 +1713,7 @@ section {
 }
 
 #footer .footer-top .footer-contact h3 span {
-  color: #f50713;
+  color: #fff;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1721,13 +1721,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #777777;
+  color: #fff;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color: #fff;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1760,7 +1760,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #fff;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1809,5 +1809,6 @@ section {
     float: none;
     text-align: center;
     padding: 2px 0;
+    color: black;
   }
 }
